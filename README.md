@@ -1,7 +1,8 @@
 # PandaCritic
 
  ## License
-![alt](https://img.shields.io/badge/License--blue)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
           
 ## Table of Content 
 - [Project Description](#Description)
